@@ -7,9 +7,7 @@ public static class Methods
     public static void WelcomeUser()
     {
         Console.WriteLine("\t\t\t\t\t\tWelcome to the Research Tool");
-        Console.WriteLine("\t\t\tThis application was created for simplifying researches with many AI models");
-
-        Console.WriteLine("\t\t\t\t        ⚠️ Do not paste many lines of code there ⚠️");
+        Console.WriteLine("\t\t\t\t\t⚠️ Do not paste many lines of code there ⚠️");
         Console.WriteLine();
     }
 
