@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36121.58
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResearchAI", "ResearchAI\ResearchAI.csproj", "{D020FE8B-C9EB-4774-ACFA-86A86D46D8BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResearchLibrary", "ResearchLibrary\ResearchLibrary.csproj", "{96E3D927-85A1-43CF-A309-3B3658E7DD17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D020FE8B-C9EB-4774-ACFA-86A86D46D8BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D020FE8B-C9EB-4774-ACFA-86A86D46D8BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D020FE8B-C9EB-4774-ACFA-86A86D46D8BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D020FE8B-C9EB-4774-ACFA-86A86D46D8BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96E3D927-85A1-43CF-A309-3B3658E7DD17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96E3D927-85A1-43CF-A309-3B3658E7DD17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96E3D927-85A1-43CF-A309-3B3658E7DD17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96E3D927-85A1-43CF-A309-3B3658E7DD17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40953ADC-B38E-4945-9ADC-7E6B87649CCF}
+	EndGlobalSection
+EndGlobal
