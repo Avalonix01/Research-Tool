@@ -1,4 +1,4 @@
-# Research Tool
+# Research Tool 🔍
 
 A simple console app written in C# that opens several AI websites with your search query.
 
